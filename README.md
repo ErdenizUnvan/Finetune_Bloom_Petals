@@ -1,5 +1,7 @@
 # Finetune_Bloom_Petals
 
+Finetune bigscience/bloom-7b1-petals model with bavard/personachat_truecased dataset
+
 Use Ubuntu
 
 If you have windows\ then use wsl for ubuntu.
